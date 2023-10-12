@@ -1,0 +1,58 @@
+data/levels/old/lab/main
+!- The extreme MarioTestLab - Massacre -!
+data/levels/menulevel2
+!- The funky death Jump -!
+data/levels/old/2/main
+!- The first level of the original SMB -!
+data/levels/3/main
+Lev. 1 - The story starts
+data/levels/3_2/main
+Lev. 1-2 The Cake Walk
+data/levels/4/main
+Lev. 2 - Gettin' higher
+data/levels/5/main
+Lev. 3 - First castle
+data/levels/6/main
+Lev. 4 - Crossed pipes
+data/levels/7/main
+Lev. 5 - What about stars ?
+data/levels/grasslevels/grassland
+Lev. 5.5 - Grassland 
+data/levels/grasslevels/iceland
+Lev. 5.6 - Iceland
+data/levels/grasslevels/shroomland
+Lev. 5.7 - Shroomland
+data/levels/8/main
+Lev. 6 - Bullet Bill strikes back
+data/levels/9/main
+Lev. 7 - Castle 2 - Deep down below
+data/levels/10/main
+Lev. 8 - The Egypt hole 1
+data/levels/11/main
+Lev. 9 - The Hole 2
+data/levels/12/main
+Lev. 10 - Nice weather
+data/levels/13/main
+Lev. 11 - Castle 3 - Trapped
+data/levels/14/main
+Lev. 12 - A lovely canyon
+data/levels/15/main
+Lev. 13 - Fire in the Hole
+data/levels/16/main
+Lev. 14 - Maze
+data/levels/17/main
+Lev. 15 - Canyon Bowser Battle
+data/levels/18/main
+Lev. 16 - ?????????????????
+data/levels/19/main
+Lev. 17 - Castle 4 - Climb The Evil
+data/levels/20/main
+Lev. 18 - Elevator Attator
+data/levels/21/main
+Lev. 19 - Big World
+data/levels/22/main
+Lev. 20 - Bullet Bill
+data/levels/23/main
+Lev. 21 - Way to hell
+data/levels/24/main
+Lev. 22 - Final Castle - Power Battle
