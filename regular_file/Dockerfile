@@ -17,9 +17,7 @@ RUN mkdir /var/lib/apt/lists/partial && apt-get update && apt-get install -y lib
                         libsdl-gfx* \
                         freetype*
 
-COPY ./MegaMario_v1.7_full.zip /MegaMario_v1.7_full.zip
-
-RUN unzip MegaMario_v1.7_full.zip -d MegaMario_v1.7_full
+COPY ./MegaMario_v1.7_full /MegaMario_v1.7_full
 
 RUN sed -i "s/PATH_MAX/1024/g" /MegaMario_v1.7_full/src/Global.h
 
