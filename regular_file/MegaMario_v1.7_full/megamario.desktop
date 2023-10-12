@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=megamario %u
+Icon=/usr/share/pixmaps/megamario.png
+Type=Application
+Categories=Game;ArcadeGame;
+Name=megamario
+GenericName=Mega Mario
+GenericName[fr]=Clone de Mario Bros
+GenericName[de]=Mega Mario
+StartupNotify=false

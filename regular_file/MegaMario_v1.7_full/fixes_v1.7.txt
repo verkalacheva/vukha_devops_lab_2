@@ -1,0 +1,39 @@
+1.7
+- new sprites: Mario, some enemies and boxes (thanks to GuildRx - great job!)
+
+
+1.6
+- new graphics  (Thanks to Vincent Bethmann)
+- new levels    (Thanks to Vincent Bethmann)
+- hig quality mp3 music
+- editor fixes (scrolling to right side -> no more crash)
+
+1.5
+- Higher Resolution in Editor
+- First Level fixed
+- Turtle shells kick stones!!!
+
+1.3linux
+- linux support
+- fire fixed!
+
+1.3
+- Full Levellist is created correctly after completing game
+- new Statusbar
+- Cheats only available after completing the game
+
+Music Archive programmed :
+- no more stopping when loading a song
+- fixed music bug: an old song sometimes never stopped
+
+1.25
+
+-Mario dying bug when blinking
+-Some graphics improved
+-Crash down at exiting right level border removed
+-Bonus Collission detection improved
+-Some Level bugs fixed
+
+
+
+[Archived]

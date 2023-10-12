@@ -1,0 +1,13 @@
+HighQualityMusicFound = 1
+loading level data/levels/menulevel at startpoint 0
+loading mp3 music file: mp3music/orig.mp3 - successful.
+play music from archive: orig.mid
+loading level data/levels/old/2/main at startpoint 0
+loading mp3 music file: mp3music/megamusic.mp3 - successful.
+loading level data/levels/old/2/1 at startpoint 0
+loading midi music file - reason: mp3music/talltower.mp3 not found.
+loading level data/levels/old/2/main at startpoint 1
+play music from archive: megamusic.mid
+play music from archive: megamusic.mid
+loading level data/levels/old/2/main at startpoint 0
+play music from archive: megamusic.mid
