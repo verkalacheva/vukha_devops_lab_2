@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: Editor - Win32 Release--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOKUME~1\KNOCHE~1\LOKALE~1\Temp\RSPC0.tmp" mit Inhalten
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/Editor.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"E:\Eigene Daten\Programmieren\c++\Super Mario Bros. 4\Editor\EditorDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOKUME~1\KNOCHE~1\LOKALE~1\Temp\RSPC0.tmp" 
+Erstellen der temporären Datei  "C:\DOKUME~1\KNOCHE~1\LOKALE~1\Temp\RSPC1.tmp" mit Inhalten
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/Editor.pdb" /machine:I386 /out:"Release/Editor.exe" 
+".\Release\castle_dlg.obj"
+".\Release\Editor.obj"
+".\Release\EditorDlg.obj"
+".\Release\functions.obj"
+".\Release\Gfx.obj"
+".\Release\levels.obj"
+".\Release\LoadDLG.obj"
+".\Release\STARTDLG.obj"
+".\Release\StdAfx.obj"
+".\Release\Editor.res"
+"..\..\SDL-1.2.7\lib\SDL.lib"
+"..\..\SDL-1.2.7\SDL_image-1.2.3\lib\SDL_image.lib"
+]
+Erstellen der Befehlzeile "link.exe @C:\DOKUME~1\KNOCHE~1\LOKALE~1\Temp\RSPC1.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+EditorDlg.cpp
+Linker-Vorgang läuft...
+LINK : warning LNK4089: Alle Verweise auf "comdlg32.dll" wurden durch /OPT:REF verworfen
+
+
+
+<h3>Ergebnisse</h3>
+Editor.exe - 0 Fehler, 1 Warnung(en)
+</pre>
+</body>
+</html>
